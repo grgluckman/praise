@@ -31,6 +31,7 @@ adjective <- c(
   "delightful",
   "distinctive",
   "divine",
+  "do",
   "dope",
   "elegant",
   "epic",
